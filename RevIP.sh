@@ -17,14 +17,6 @@ echo -e "${G}Enter The Target domain ^_^ ${G}"
 
 read domain
 
-echo -e "LOADING>>>"
-echo -ne '█████                     \r'
-sleep 1
-echo -ne '█████████            \r'
-sleep 1
-echo -ne '██████████████   100%\r'
-echo -ne '\n'
-
 echo -e "${G}Doing ReverseIP Lookup ${G}"
 
 echo " ====================================="
