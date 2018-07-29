@@ -9,13 +9,7 @@ Read this only if you accept that you are a fu@@king n00b :3
 
 **In terminal type these commands**
 
-*git clone https://github.com/Shuvamoy/RevIP.git*
-
-*cd RevIP*
-
-*chmod +x RevIP.sh*
-
-*./RevIP.sh*
+*git clone https://github.com/Shuvamoy/RevIP.git && cd RevIP && chmod +x RevIP.sh && ./RevIP.sh*
 
 **Enter The Domain Against which you wanna lookup and go get some hacks done instead of wasting your time running scripts :3 :3 :3**
 
