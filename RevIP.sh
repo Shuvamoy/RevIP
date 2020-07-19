@@ -23,7 +23,6 @@ echo " ====================================="
 
 curl "http://reverseip.logontube.com/?url=$domain&output=json" >abc.txt
 
-sleep 2s
 
 echo -e "${G} Arranging up all the domains${G}"
 echo "++++++++++++++++++++++++++++++++++++++"
