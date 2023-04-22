@@ -1,11 +1,11 @@
 # RevIP
 A Short and Fast ReverseIP Lookup script coded in bash
 
-Author: Shuvamoy Roy (AN0N.PH03N1X) (www.facebook.com/shuvamoy.roy.3)
+Author: Shuvamoy Roy (www.facebook.com/shuvamoy.roy.3)
 
 # Execution
 
-Read this only if you accept that you are a fu@@king n00b :3 
+Read this only if you accept that you are a n00b :3 
 
 **In terminal type these commands**
 
